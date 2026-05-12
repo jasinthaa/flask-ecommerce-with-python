@@ -1,4 +1,4 @@
-<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/f6c04dce-09e2-4484-a605-1a618455321d" />🛒 E-Commerce Website (Flask Based)
+ />🛒 E-Commerce Website (Flask Based)
 
 A full-stack e-commerce web application built using Python Flask that allows users to browse products, manage cart, place orders, and complete secure checkout. It also includes an admin panel for managing products and orders.
 ___________________________________________________________________________________________________________________________________________________________________

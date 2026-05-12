@@ -89,12 +89,16 @@ ________________________________________________________________________________
 📸 Screenshots
 
 Home Page
+
 <img width="1902" height="907" alt="image" src="https://github.com/user-attachments/assets/775eebc4-b1ba-4d17-897d-e485c781cfca" />
 Product Page
+
 <img width="1902" height="911" alt="image" src="https://github.com/user-attachments/assets/835afb8f-cbc5-48ed-bb98-e8ffc652dcc0" />
 Cart Page
+
 <img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/2ea610b4-74cd-4e2b-b81e-990a4294644d" />
 login & signup page
+
 <img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/8259f48e-2c45-4e06-9c56-63ce3c410eba" />
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/2c55bf37-f77f-4062-b643-90ea77564afc" />
 ___________________________________________________________________________________________________________________________________________________________________

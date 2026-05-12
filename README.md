@@ -1,7 +1,7 @@
- 🛒 E-Commerce Website (Flask Based)
+🛒 E-Commerce Website (Flask Based)
 
 A full-stack e-commerce web application built using Python Flask that allows users to browse products, manage cart, place orders, and complete secure checkout. It also includes an admin panel for managing products and orders.
-
+__________________________________________________________________________________________________________________________________________________________________
 
 🚀 Project Overview
 
@@ -14,7 +14,7 @@ Place orders and complete checkout
 View order history
 
 It also provides an Admin Dashboard for managing the entire system efficiently.
-
+__________________________________________________________________________________________________________________________________________________________________
 
 ⚙️ Features
 
@@ -24,13 +24,14 @@ Product browsing and search functionality
 Add/remove products from cart
 Secure order placement system
 Order tracking
-
+__________________________________________________________________________________________
 🛠 Admin Side:
 Add / update / delete products
 Manage user orders
 Update order status
 View dashboard analytics
 
+__________________________________________________________________________________________________________________________________________________________________
 
 🧰 Tech Stack
 Backend: Flask (Python)
@@ -39,6 +40,7 @@ Database: MySQL / SQLite
 Authentication: Flask Login
 ORM: SQLAlchemy
 
+__________________________________________________________________________________________________________________________________________________________________
 
 📂 Project Structure
 project/
@@ -54,6 +56,7 @@ project/
 ├── database/
 └── requirements.txt
 
+__________________________________________________________________________________________________________________________________________________________________
 
 🔐 Modules
 
@@ -77,6 +80,7 @@ Handles checkout and order placement.
 
 Complete control over users, products, and orders.
 
+__________________________________________________________________________________________________________________________________________________________________
 
 🖥️ How It Works
 
@@ -86,6 +90,7 @@ Proceed to checkout and place order
 Admin receives order and updates status
 Users can track order progress
 
+__________________________________________________________________________________________________________________________________________________________________
 
 📸 Screenshots
 
@@ -106,6 +111,7 @@ login & signup page
 <img width="1915" height="911" alt="image" src="https://github.com/user-attachments/assets/8259f48e-2c45-4e06-9c56-63ce3c410eba" />
 <img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/2c55bf37-f77f-4062-b643-90ea77564afc" />
 
+__________________________________________________________________________________________________________________________________________________________________
 
 🛠 Installation Guide
 
@@ -127,6 +133,7 @@ pip install -r requirements.txt
 # Run application
 python app.py
 
+__________________________________________________________________________________________________________________________________________________________________
 🎯 Future Improvements
 Payment gateway integration
 Email notifications
@@ -134,5 +141,7 @@ Wishlist feature
 Advanced analytics dashboard
 Mobile responsive UI improvements
 ___________________________________________________________________________________________________________________________________________________________________
+
 👨‍💻 Developer
 Developed by Jasintha Y
+___________________________________________________________________________________________________________________________________________________________________

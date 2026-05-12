@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block title %} Wishlist {% endblock %}
+
+{% block body %}
+
+<div class="container">
+
+    <h2 style="
+    margin-top:20px;
+    color:white;
+    text-align:center;
+    font-weight:bold;
+">
+    My Wishlist
+</h2>
+
+    <div class="row">
+
+        {% for item in wishlist_items %}
+
+        <div class="col-md-3"
+             style="background-color:white;
+                    margin:10px;
+                    padding:15px;
+                    border-radius:10px;">
+
+            <img src="{{ item.product.product_picture }}"
+                 style="width:180px;
+                        height:180px;
+                        border-radius:10px;">
+
+            <h5 style="margin-top:10px;">
+                {{ item.product.product_name }}
+            </h5>
+
+            <p>
+                Ksh {{ item.product.current_price }}
+            </p>
+
+            <a href="/add-to-cart/{{ item.product.id }}">
+                Add To Cart
+            </a>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
+
+{% endblock %}
